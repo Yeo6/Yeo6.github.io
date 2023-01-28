@@ -64,7 +64,7 @@ paths:
   root    : # title link url, "/" (default)
   home    : # home layout url, "/" (default)
   archive : # "/archive.html" (default)
-  rss     : # "/feed.xml" (default)
+  rss     : /feed.xml
 
 
 ## => Post
@@ -121,7 +121,7 @@ comments:
 
   ## Disqus
   disqus:
-    shortname: # the Disqus shortname for the site
+    shortname: yeo6.github.io
 
   ## Gitalk
   # please refer to https://github.com/gitalk/gitalk for more info.
