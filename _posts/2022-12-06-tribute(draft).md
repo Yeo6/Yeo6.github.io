@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Nana’s tribute (draft)
+title: tribute (draft)
 mathjax: true
 ---  
 
